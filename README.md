@@ -1,5 +1,5 @@
 # Skyscraper
-_Currently supports 4×4 only_
+_Currently supports 4×4 only._
 
 # Usage
 ```
